@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText etCiudad;
     private TextView tvClima;
     //Esto no se debe hacer en produccion, es muy poco seguro insertar la clave API tal cual en el código
-    private final String API_KEY = "d213db0931f72c5a81065b1bffceb659";
+    private final String API_KEY = "insert your API";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
